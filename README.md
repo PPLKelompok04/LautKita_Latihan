@@ -5,7 +5,7 @@ Platform Komunitas Pelestarian Laut — Proposal & PBI.
 Fitur: budidaya terumbu karang, ikan, mangrove + pelaporan pencemaran + timeline komunitas.
 
 ## Anggota Kelompok
-1. [Nama] — Project Manager / Product Owner
+1. Mohammad Rafsanjani Akbar — Project Manager / Product Owner
 2. Indira Nada Diyanti — System Analyst + Koordinator Tools AI
 3. Sulthan Muhammad Avedha Maheswara — Scrum Master + QA Lead
 4. [Nama] — Database Engineer
