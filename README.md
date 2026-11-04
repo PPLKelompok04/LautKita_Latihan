@@ -12,7 +12,7 @@ Fitur: budidaya terumbu karang, ikan, mangrove + pelaporan pencemaran + timeline
 5. Muhammad Hasyim Syahputra Pelupesi — Backend Lead
 6. Intan Nurfathriah — Business Analyst
 7. Mauly Aditia — UI/UX Lead
-8. Muhammad Ihsannussya'ban — DevOps + Tech Architect
+8. Muhammad Ihsannussya'banteng — DevOps + Tech Architect
 
 ## Stack Teknologi
 - **Framework:** Next.js 14+ — fullstack
