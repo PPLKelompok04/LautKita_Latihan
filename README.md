@@ -11,7 +11,7 @@ Fitur: budidaya terumbu karang, ikan, mangrove + pelaporan pencemaran + timeline
 4. [Nama] — Database Engineer
 5. Muhammad Hasyim Syahputra Pelupesi — Backend Lead
 6. Intan Nurfathriah — Business Analyst
-7. [Nama] — UI/UX Lead
+7. Mauly Aditia — UI/UX Lead
 8. Muhammad Ihsannussya'ban— DevOps + Tech Architect
 
 ## Stack Teknologi
