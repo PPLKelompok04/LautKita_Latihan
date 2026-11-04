@@ -9,10 +9,10 @@ Fitur: budidaya terumbu karang, ikan, mangrove + pelaporan pencemaran + timeline
 2. Indira Nada Diyanti — System Analyst + Koordinator Tools AI
 3. Sulthan Muhammad Avedha Maheswara — Scrum Master + QA Lead
 4. [Nama] — Database Engineer
-5. Hasyimmmmmm — Backend Lead
+5. Muhammad Hasyim Syahputra Pelupesi — Backend Lead
 6. Intan Nurfathriah — Business Analyst
-7. Mauly Adity — UI/UX Lead
-8. Muhammad Ihsannussya'ban— DevOps + Tech Architect
+7. Mauly Aditia — UI/UX Lead
+8. Muhammad Ihsannussya'ban — DevOps + Tech Architect
 
 ## Stack Teknologi
 - **Framework:** Next.js 14+ — fullstack
