@@ -1,4 +1,4 @@
-// PBI-02 CRUD Lokasi Budidaya & Zona
+PBI-02 CRUD Lokasi Budidaya & Zona
 
 enum Ekosistem {
   KARANG
@@ -20,7 +20,7 @@ model LokasiBudidaya {
   createdAt DateTime  @default(now()) @map("created_at")
   updatedAt DateTime  @updatedAt @map("updated_at")
 
-  // Relasi balik. Hapus tanda // di baris PBI-mu saat commit.
+  / Relasi balik. Hapus tanda // di baris PBI-mu saat commit.
   // program ProgramBudidaya[] // PBI-04
 
   @@index([ekosistem])

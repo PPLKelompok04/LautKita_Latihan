@@ -1,8 +1,8 @@
-// PBI-01 CRUD User & Role
+PBI-01 CRUD User & Role
 
 model Role {
   id        Int     @id @default(autoincrement()) @map("id_role")
-  // Kode dipakai untuk cek hak akses di kode: ADMIN, PETUGAS, RELAWAN
+  Kode dipakai untuk cek hak akses di kode: ADMIN, PETUGAS, RELAWAN
   kode      String  @unique @map("kode_role")
   nama      String  @unique @map("nama_role")
   deskripsi String?
@@ -11,7 +11,11 @@ model Role {
   @@map("roles")
 }
 
+<<<<<<< HEAD
  model User {
+=======
+model User {
+>>>>>>> 6ef8534 (Mengubah Nama UI/UX Lead)
   id           Int      @id @default(autoincrement()) @map("id_user")
   nama         String   @map("nama_lengkap")
   email        String   @unique
@@ -26,8 +30,8 @@ model Role {
   createdAt    DateTime @default(now()) @map("created_at")
   updatedAt    DateTime @updatedAt @map("updated_at")
 
-  // Relasi balik. Hapus tanda // di baris PBI-mu saat commit.
-  // postingan Postingan[] // PBI-06
+  Relasi balik. Hapus tanda // di baris PBI-mu saat commit.
+  postingan Postingan[] // PBI-06
 
   @@index([roleId])
   @@index([wilayahId])
