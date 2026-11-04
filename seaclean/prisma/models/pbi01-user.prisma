@@ -11,7 +11,7 @@ model Role {
   @@map("roles")
 }
 
-// model User {
+ model User {
   id           Int      @id @default(autoincrement()) @map("id_user")
   nama         String   @map("nama_lengkap")
   email        String   @unique
