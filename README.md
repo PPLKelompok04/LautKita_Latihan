@@ -8,7 +8,7 @@ Fitur: budidaya terumbu karang, ikan, mangrove + pelaporan pencemaran + timeline
 1. Mohammad Rafsanjani Akbar — Project Manager / Product Owner
 2. Indira Nada Diyanti — System Analyst + Koordinator Tools AI
 3. Sulthan Muhammad Avedha Maheswara — Scrum Master + QA Lead
-4. [Nama] — Database Engineer
+4. modal laptop — Database Engineer
 5. Muhammad Hasyim Syahputra Pelupesi — Backend Lead
 6. Intan Nurfathriah — Business Analyst
 7. Mauly Aditia — UI/UX Lead
